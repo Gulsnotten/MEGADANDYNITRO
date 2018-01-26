@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/dachuro.unity
+- path: Assets/scenes/Tonska.unity
   isLoaded: 1
   isActive: 1
